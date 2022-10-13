@@ -1,0 +1,11 @@
+node_modules
+# O NOME DO ARQUIVO DEVE SER `.gitignore` (ATENTE-SE AO PONTO NO INÍCIO)
+
+# VSCode repo settings
+.vscode
+.DS_Store
+node_modules/
+cypress/reports
+cypress/screenshots
+coverage/
+README.md 
